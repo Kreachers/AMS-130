@@ -1,0 +1,57 @@
+Professor
+Athanasios Kottas
+Office: 365A Baskin Enginneering
+Email: Thanos@soe.ucsc.edu
+Office hours: Mon 12-1 Wed 12-1
+
+TA
+
+Sisi Song
+Email: song@soe.ucsc.edu
+Offive Hours: TBD
+
+Xingchen Yu
+Email: xyu26.ucsc.edu
+Offive Hours: TBD
+
+Hyotae Kim
+Email: hkim@ucsc.edu
+Offive Hours: TBD
+
+Book: MH degroot mj schervish Probability and statistics  4th ed.
+
+class and sections are not required
+
+homework will not be graded but needs to be turned in
+
+Exam 1: Thursday October 25
+Exam 2: Tuesday November 27
+Final: Monday December 10 9am to 11am(two hours)
+
+grade:
+Homework 10%
+exam 1,2 55%(20% of the lower score and 35% of higher)
+final    35%
+
+no calculators on exams
+only scratch paper
+
+Sections 1.1-1.4
+
+Probability: Measure of uncertainty
+  - a Measure, such as length,area,volume, though measureing "uncertainty" (less concrete notion then say length,area,etc.)
+
+
+Interpretations of Probability
+  - frequency interpretation: realtive frequency with which and outcome would be obtained if the process was repeated a "large" number of times under similar conditions
+  - classical interpretation: based on "equally libely" outcimes
+  - subjective interpretation: based on a particular persons beliefs and information about the process
+
+
+Nevada roulette
+  - wheel with 38 pockets
+  - number 0 and 00 green
+  - 1 to 36 red/black alternating colors
+  - bet 1 dollar on red
+  - Pr(red)
+  - 18/38 >>> 9/19?
