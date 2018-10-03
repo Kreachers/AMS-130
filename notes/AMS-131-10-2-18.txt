@@ -1,0 +1,62 @@
+ams131-fall18-01.courses.soe.ucsc.edu
+
+Experiment:
+any process whose outcome is subject to uncertainyy( and for which the possible outcomes can be identifies ahead of time)
+
+Sample psace:
+collecton of all possible outcomes of the experiment(notation=S)
+  - infinite
+    - countable
+      - times  a neuron fires (0,1,2,3,...)
+    - uncountable
+      - wait time at a bus stop (0,infinity)
+  - finite
+
+Technical:
+In general, for uncountable sample spaces, S, it is not possible to define Probabilities for all subsets of S
+ - definition of "o-field"=collections of subsets of S (events) that satisfy three conditions which ensure consistent definition of Probability
+
+toss a coin 3 times -> 2^3 outcomes
+order matters
+S={TTT,TTH,THH,HHH,....}
+
+How many heads?
+
+S={0,1,2,3}
+
+Events:
+subset of the sample space (notation: A,B,{A1,A2,A3,...An},{A1,A2,A3,...})
+
+coin toss Experiment
+until first heads is observed
+
+S={H,TH,TTH,...} infinte tails before heads
+infinite countable result
+
+A=event=(first heads occurs after an odd number of coin tosses)
+
+A= U si
+ i odd
+
+ Si=TT...TH
+    | i-a|
+
+
+Basic def from set theory
+
+axiomatic def of Probability
+
+Axiom 1
+   For any event A, Pr(A)>=0
+
+Axiom 2
+   Pr(S)=1
+
+Axiom 3 (countable additivity)
+   For any countable sequence of disjoint events
+   {A1,A2,...} (i.e. Ai (interection) Aj, for any i!=j)
+   we must have
+
+         infinte    infinite
+      Pr(   U Ai) =   SUM   Pr(Ai)
+           i=1        i=1
